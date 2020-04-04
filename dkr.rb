@@ -1,4 +1,4 @@
-class Weather < Formula
+class Dkr < Formula
   desc "Dkr is a command line (CLI) tool that is a drop-in solution for `docker` and `docker-compose` tools."
   homepage "https://github.com/ohdkr/dkr"
   url "https://github.com/ohdkr/dkr/releases/download/v0.0.1/dkr_0.0.1_Darwin_x86_64.tar.gz"
